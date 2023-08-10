@@ -6,4 +6,4 @@ The *train.py* file is a Python script that trains a ResNet-18 model with a cert
 
 Initial weights and settings can be easily changed on the first few lines.
 
-To reproduce the experiments it is also necessary to split the datasets in the same way that we did. For PathoNet and DeepHisto we respect the original division that they have in their respective repositories. In the *hiutr_split.txt* file you can see the list of files for the HIUTR dataset.
+To reproduce the experiments it is also necessary to split the datasets in the same way that we did. For PathoNet and DeepHisto we respect the original division that they have in their respective repositories. In the *hiutr_split.zip* file you can see the list of files for the HIUTR dataset.
